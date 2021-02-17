@@ -1,0 +1,96 @@
+h1{
+    background-color:burlywood;
+    height: 70px;
+    width: 450px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display:block;
+    margin: auto;
+    font-family: 'Noto Serif KR', serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:black;
+    
+
+}
+
+p{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 20px;
+    opacity: 1;
+    color: gray;
+    width: 400px;
+    margin : 0 auto;
+}
+.category{
+    font-family:'Noto Serif', serif;
+    font-size: 80px;
+    opacity: 1;
+    color: black;
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+}
+table{
+    width: 500px;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    border-collapse: collapse;
+    display: table;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: black;
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-collapse: collapse;
+    border-bottom: 3px solid black;
+    border-spacing: 5px;
+}
+h2{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    opacity: 1;
+    color: black;
+    width: 500px;
+    margin : 0 auto;
+}
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+img{
+    padding:18px;
+    width:400px;
+    height:400px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+span{
+    height: 40px;
+    width: 100px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    opacity: 1;
+    color: black;
+    background-color: red;
+    display:block;
+    margin:auto;
+}
+h3{
+    height: 40px;
+    width: 100px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    opacity: 1;
+    color: black;
+    width: 100px;
+    background-color: blue;
+    display:block;
+    margin:auto;
+}
